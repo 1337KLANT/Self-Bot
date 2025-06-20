@@ -1,0 +1,10 @@
+!purge	Deletes all Your messages in the channel (up to 10,000).
+!scan	Scans last 50 messages for suspicious users (flags long messages or specific user IDs).
+!read	Saves the last 1000 messages in the channel to a file (chat_log.txt).
+!copy	Repeats the most recent non-bot message in the channel.
+!send <message>	Sends the provided message 100,000 times (spammy/dangerous).
+!afk [reason]	Sets the user as AFK with an optional reason.
+!report <type> <user> <reason>	Sends a report to a Discord webhook.
+!define <word>	Fetches and returns the definition of the given word using the Dictionary API.
+!snipe	Returns the last deleted message in the channel.
+!editsnipe Shows the last edited message before and after editing.
